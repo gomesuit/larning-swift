@@ -1,5 +1,6 @@
 import Vapor
+import AWSSDKSwift
 
 struct work {
-    var text = "Hello, World!"
+  var text = "Hello, World!"
 }

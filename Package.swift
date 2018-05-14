@@ -12,6 +12,6 @@ let package = Package(
     targets: [
         .target(
             name: "work",
-            dependencies: ["Vapor"]),
+            dependencies: ["Vapor", "AWSSDKSwift"]),
     ]
 )
